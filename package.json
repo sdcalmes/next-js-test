@@ -9,6 +9,8 @@
     "react-dom": "^15.4.2"
   },
   "scripts": {
-    "dev": "next"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   }
 }
